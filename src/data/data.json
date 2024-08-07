@@ -1,0 +1,54 @@
+{
+  "quiz": [
+    {
+      "question": "Siapakah yang memproklamasikan kemerdekaan Indonesia?",
+      "options": ["Soekarno dan Hatta", "Soeharto dan Habibie", "Megawati dan Gus Dur", "Jokowi dan Jusuf Kalla"],
+      "correctAnswer": "Soekarno dan Hatta"
+    },
+    {
+      "question": "Kapan Indonesia memproklamasikan kemerdekaannya?",
+      "options": ["17 Agustus 1945", "1 Juni 1945", "28 Oktober 1928", "20 Mei 1908"],
+      "correctAnswer": "17 Agustus 1945"
+    },
+    {
+      "question": "Dimana teks proklamasi kemerdekaan Indonesia dibacakan?",
+      "options": ["Jakarta", "Bandung", "Surabaya", "Yogyakarta"],
+      "correctAnswer": "Jakarta"
+    },
+    {
+      "question": "Siapa yang dikenal sebagai Bapak Pendidikan Nasional Indonesia?",
+      "options": ["Ki Hajar Dewantara", "Soekarno", "Mohammad Hatta", "R.A. Kartini"],
+      "correctAnswer": "Ki Hajar Dewantara"
+    },
+    {
+      "question": "Apa nama organisasi pemuda yang didirikan pada 20 Mei 1908?",
+      "options": ["Budi Utomo", "Perhimpunan Indonesia", "Jong Java", "Jong Sumatranen Bond"],
+      "correctAnswer": "Budi Utomo"
+    },
+    {
+      "question": "Apa tujuan utama dari Sumpah Pemuda yang diikrarkan pada 28 Oktober 1928?",
+      "options": ["Mempersatukan pemuda Indonesia", "Mendirikan partai politik", "Mendukung penjajahan Belanda", "Mendukung revolusi industri"],
+      "correctAnswer": "Mempersatukan pemuda Indonesia"
+    },
+    {
+      "question": "Siapa yang menjabat sebagai presiden pertama Indonesia?",
+      "options": ["Soekarno", "Soeharto", "Habibie", "Gus Dur"],
+      "correctAnswer": "Soekarno"
+    },
+    {
+      "question": "Siapa yang memimpin tentara Jepang dalam menginvasi Indonesia pada tahun 1942?",
+      "options": ["Hitoshi Imamura", "Douglas MacArthur", "Erwin Rommel", "Yamamoto Isoroku"],
+      "correctAnswer": "Hitoshi Imamura"
+    },
+    {
+      "question": "Kapan Pancasila pertama kali dikenalkan sebagai dasar negara Indonesia?",
+      "options": ["1 Juni 1945", "17 Agustus 1945", "20 Mei 1948", "5 Juli 1959"],
+      "correctAnswer": "1 Juni 1945"
+    },
+    {
+      "question": "Apa nama gerakan yang terjadi pada tahun 1965 yang berusaha mengubah ideologi negara Indonesia?",
+      "options": ["G30S/PKI", "Reformasi", "Gerakan Non-Blok", "Gerakan 30 September"],
+      "correctAnswer": "G30S/PKI"
+    }
+  ]
+}
